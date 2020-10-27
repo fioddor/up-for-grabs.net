@@ -1,0 +1,14 @@
+name: FreedomBox
+desc: Easy server for self-hosting of privacy-oriented social apps.
+site: https://www.freedombox.org
+tags:
+  - privacy
+  - self-hosting
+  - home-server
+  - soc
+  - system-on-chip
+  - debian
+  - django
+upforgrabs:
+  name: beginner
+  link: https://salsa.debian.org/freedombox-team/freedombox/-/issues?label_name%5B%5D=beginner
